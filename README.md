@@ -11,3 +11,7 @@
 ##### ML_CP
 - The aim of this study was to forecast country population, fertility rate, and life expectancy using three datasets covering the period up to 2016, sourced from the World Bank.
 - Algorithms explored: Linear Regression, XGBRegressor and MLPRegressor.
+
+---
+
+##### Pollution_PCA - Application of Principal component analysis (PCA) in an air pollution dataset.
