@@ -14,4 +14,4 @@
 
 ---
 
-##### Pollution_PCA - Application of Principal component analysis (PCA) in an air pollution dataset.
+##### Pollution_PCA - Application of Principal Component Analysis (PCA) in an air pollution dataset.
