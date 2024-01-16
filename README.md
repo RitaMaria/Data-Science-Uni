@@ -16,3 +16,8 @@
 
 ##### Pollution_PCA 
 - Application of Principal Component Analysis (PCA) in an air pollution dataset.
+
+---
+
+### human_pose_estimation_in_fitness
+- In this report, Pose Trainer, an application that aims to prevent injuries by providing feedback to improve form in fitness, is presented.
