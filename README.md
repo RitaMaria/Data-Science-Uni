@@ -66,3 +66,10 @@
 ##### DM_HA3
 - Perform clustering exercises and evaluate the results using intrinsic end extrinsic methods on superconductors data.
 - Algorithms explored: K-Means, HAC and DBSCAN.
+
+---
+
+#### Natural Language Interaction
+
+- BoolQ: QA task where each example consists of a short passage and a yes/no question about the passage.
+- SuperGLUE dataset and RobertaForSequenceClassification model.
