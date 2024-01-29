@@ -21,3 +21,31 @@
 
 ##### human_pose_estimation_in_fitness
 - In this report, Pose Trainer, an application that aims to prevent injuries by providing feedback to improve form in fitness, is presented.
+
+---
+
+### Advanced Machine Learning
+
+##### AAA_TP1
+- Backpropagation and Multilayer Perceptron
+
+##### AAA_TP2
+- SVM
+
+##### AAA_TP3
+- Weighted Average Ensemble System
+
+##### AAA_TP4
+- Hidden Markov Model
+
+##### AAA_TP5
+- Bayesian Network
+
+##### AAA_TP6
+- DeepLearning in Keras
+
+##### AAA_TP7
+- LSTM
+
+##### AAA_TP8
+- Explainable machine learning
