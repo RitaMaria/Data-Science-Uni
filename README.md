@@ -49,3 +49,20 @@
 
 ##### AAA_TP8
 - Explainable machine learning
+
+---
+
+### Data Mining
+
+##### DM_HA1
+- Predict the critical temperature of superconductors.
+- Application of Principal Component Analysis (PCA).
+- Algorithms explored: Linear Regression, Decision Tree Regressor, Gaussian Naïve Bayes and Decision Tree Classifier.
+
+##### DM_HA2
+- Predict which previously purchased products will be in a user’s next order.
+- Frequent Itemset Mining Methods, namely Apriori, Frequent Pattern growth (FP-growth) and Equivalence Class Transformation (ECLAT).
+
+##### DM_HA3
+- Perform clustering exercises and evaluate the results using intrinsic end extrinsic methods on superconductors data.
+- Algorithms explored: K-Means, HAC and DBSCAN.
